@@ -1,3 +1,4 @@
 # First
 
-Trying to learn git
+Trying to learn git.
+Hello World!
